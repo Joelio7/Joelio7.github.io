@@ -2,15 +2,19 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/color.png"
 ---
+{:.center}
+![]({{ site.baseurl }}/img/joel.jpeg)
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
 
-Jowl sirloin doner shank flank. Leberkas ham ball tip, jowl pastrami short loin pork cow. Rump ground round chuck leberkas shank picanha bacon meatloaf filet mignon. Ball tip swine brisket jowl pig sausage corned beef leberkas pastrami porchetta kevin beef. Ground round tail cupim ribeye, landjaeger meatloaf pig prosciutto. Shank sirloin porchetta frankfurter kevin corned beef ribeye rump doner. Shankle pork loin beef prosciutto short loin venison, ribeye swine kevin pastrami landjaeger ham hock alcatra sirloin ground round.
 
-Pork chop pork belly bresaola, turducken porchetta sausage cupim pork loin bacon pancetta. Meatloaf tail frankfurter pork belly chicken. Turducken pork prosciutto, pork chop hamburger spare ribs jerky salami leberkas meatball. Tenderloin porchetta strip steak jerky, spare ribs beef ribs pork chop tail short loin sausage. Doner biltong andouille ribeye corned beef. Prosciutto boudin corned beef pork loin tail, ham picanha biltong chicken alcatra. Hamburger frankfurter bacon tail jowl filet mignon rump brisket turducken.
+### Background
 
-Biltong landjaeger swine pork sausage chicken cow cupim ham hock corned beef. Salami alcatra turkey doner rump, ribeye turducken frankfurter pork loin. Alcatra fatback strip steak, frankfurter beef ribs tail pork loin. Jerky shankle filet mignon beef ribs ham, swine sausage sirloin brisket picanha alcatra bresaola.
+I am an aspiring Web Developer from the Seattle area. After graduating with a Communications degree,I decided I wanted a craft I could call my own. A few developers introduced me to programming While I was working in customer service at a tech startup.After completing a few courses from Code Academy, I fell in love and knew it was time for me to take the next step.
 
-Short ribs ham hock jerky, sausage beef ribs shoulder beef landjaeger rump sirloin leberkas flank turkey alcatra. Andouille pancetta cupim fatback sirloin landjaeger corned beef turducken tri-tip turkey capicola spare ribs. Chuck hamburger alcatra pig tongue, filet mignon rump bresaola. Porchetta corned beef alcatra beef ribs. Ham hock boudin picanha salami tri-tip ham.
+
+Since I had just graduated and was working full time, going back to  college for a CS degree would not be possible. A friend of mine told me about Bloc, a coding bootcamp that allows you to choose your learning pace. I enrolled in Bloc's full stack web development bootcamp in July, 2015 and completed it in May, 2016. Since then I have been working part time at a startup called MediaRails that focuses on CRM to track business influencers for companies.
+
+### Summary
+
+I love learning new web languages and frameworks but I specialize in Ruby on Rails and Front End development. I am always looking for new projects and ways I can stretch my abilities as a developer. Coding good quality applications that are readable and maintainable is important to me. If I'm not coding, I am probably playing basketball or spending time with family and friends.

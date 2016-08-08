@@ -14,18 +14,19 @@
 	</nav>
 
 	{% if site.theme.header_text %}
-  <div class="call-out" 
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
+  <div class="call-out"
+  style="background-image: url(https://hd.unsplash.com/photo-1454165205744-3b78555e5572); text-shadow: 2px 2px black; text-color: #fff ">
   	<h1 class="site-title">
-			<a href="{{ site.baseurl }}/">{{ site.theme.title }}</a>
+			<a href="{{ site.baseurl }}/" style="color: #fff">{{ site.theme.title }}</a>
 		</h1>
 		<div class="divider"></div>
     {{ site.theme.header_text }}
     <div class="divider"></div>
     <!-- Social icons from Font Awesome, if enabled -->
-	  <ul>
-	    {% include icons.html %}
-		</ul>
+		<ul>
+      {% include icons.html %}
+    </ul>
+
   </div>
   {% endif %}
 </header>
